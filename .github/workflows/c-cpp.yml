@@ -21,3 +21,8 @@ jobs:
       run: make check
     - name: make distcheck
       run: make distcheck
+    - name: run AI
+      run: |
+        cd path/to/ai/directory
+        g++ -o AI main.cpp NeuralNetwork.cpp FriendlyAI.cpp
+        ./AI
