@@ -1,4 +1,4 @@
-# Friendly_AI_Genetic_Algorith
+# Friendly_AI_Genetic_Algorithm
 This code represents a friendly AI agent in a game environment. It is designed to exhibit various behaviors and capabilities to enhance its intelligence and interaction with the game world.
 
 The FriendlyAI class is responsible for controlling the behavior of the AI agent.
@@ -22,3 +22,5 @@ Ethical Decision-Making: It makes decisions based on ethical considerations usin
 The TrainAI() function is intended for training the AI agent using a genetic algorithm or similar methods, but it is currently empty.
 The remaining private functions handle specific tasks such as checking for danger, defending, calculating fitness, reproducing, consuming energy, checking hunger, and regenerating health and energy.
 The NeuralNetwork class represents a basic neural network implementation with feed-forward functionality. It includes a Clone() function for creating a clone of the neural network.
+
+https://www.online-ide.com/5AMURFHC31
